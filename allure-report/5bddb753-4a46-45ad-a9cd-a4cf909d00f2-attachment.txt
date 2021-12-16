@@ -1,0 +1,18 @@
+[32mINFO    [0m WDM:logger.py:26 
+
+[32mINFO    [0m WDM:logger.py:26 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:26 Current google-chrome version is 96.0.4664
+[32mINFO    [0m WDM:logger.py:26 Get LATEST chromedriver version for 96.0.4664 google-chrome
+[32mINFO    [0m WDM:logger.py:26 Driver [C:\Users\arvind.nagpure.AFRICA\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:21 Clicked on Service Page DropDown
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:23 Selected Account
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:26 Clicked on VoiceCommunication
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:29 Clicked on VoiceCommunication 2
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:32 Scrolled to bottom of page
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:35 Searched customer Name
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:38 Clicked three dots
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:41 Clicked Edit option
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:44 Updated Company Name
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:46 Clicked on Update Button
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:50 Clicked Cancel It option
+[32mINFO    [0m test_updatecustomer:test_search_update_customer.py:51 New Canceled Added Successfully
